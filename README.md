@@ -10,5 +10,5 @@ Content of this repository:
  Note: Locations of these points (currently centered at 52S, 180E) should be shifted and rotated to be consisent with the location of SPA. This can be conducted using MatLab commands distance & reckon. 
 4. Modeled IBC thickness distribution from CitcomS (Extended Data Fig. 4): ExtDataFig4a_I420_deg60_v-2.txt ...
 
-Labeling scheme for our models: For example, I420_deg60v-2 has an impactor size of 420 km, an impact angle of 60 deg, IC viscosity contrast of 10^(-2) with respect to the surrounding mantle, and IBC layer thickness of 50 km. 
+Labeling scheme for our models: For example, I420_deg60v-2 has an impactor size of 420 km, an impact angle of 60 deg, IC viscosity contrast of 10^(-2) with respect to the surrounding mantle. 
 
